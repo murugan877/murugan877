@@ -68,6 +68,11 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murugan877&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugan877&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murugan877&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=murugan877&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
