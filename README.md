@@ -62,17 +62,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murugan877&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=murugan877&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
