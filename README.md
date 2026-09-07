@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Murugan Selvam</h1>
   <p><strong>Aspiring Software Engineer | Backend Development & Computer Vision</strong></p>
   <p>
-    <a href="https://linkedin.com/in/murugan-s" target="_blank">
+    <a href="https://www.linkedin.com/in/murugan-s-3500142a5/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:murugan84823@gmail.com">
