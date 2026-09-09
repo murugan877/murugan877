@@ -1,15 +1,12 @@
 <div align="center">
   <h1>Hi 👋, I'm Murugan Selvam</h1>
-  <p><strong>Aspiring Software Engineer | Backend Development & Computer Vision</strong></p>
+  <p><strong>Aspiring Software Engineer | Full Stack | Computer Vision | Machine Learning</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/murugan-s-3500142a5/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:murugan84823@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/murugan877">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -18,10 +15,14 @@
 
 ### 🚀 About Me
 
+<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 - 💻 Passionate about building robust backend architectures and computer vision systems.
 - 🛠️ Actively developing applications using **Python, PyTorch, and Deep Learning**.
 - 🎯 Constantly solving algorithmic challenges and optimizing data workflows.
 - 📫 Reach me directly at **murugan84823@gmail.com**.
+
+<br clear="right"/>
 
 ---
 
